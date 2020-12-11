@@ -1,7 +1,7 @@
 # Drive API Browser Quickstart
 
 Complete the steps described in the [quickstart instructions](
-https://developers.google.com/drive/v3/web/quickstart/js), and in about
+https://developers.google.com/drive/api/v3/quickstart/js#python-3.x), and in about
 five minutes you'll have a simple browser application that makes requests to the
 Drive API.
 
